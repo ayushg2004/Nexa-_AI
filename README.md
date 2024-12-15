@@ -1,6 +1,7 @@
 # Nexa - AI
 
 AI Chat App using Generative Language Client API
+api connection
 
 [Nexa-ai](https://nexaai.vercel.app/)
 
